@@ -33,7 +33,7 @@ class HomeScreen extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        "المكان",
+                        "المكانن",
                         style: TextStyle(fontSize: 18, color: Colors.black54),
                       ),
                       SizedBox(

@@ -22,7 +22,7 @@ class ItemScreen extends StatelessWidget {
           ),
         ),
         title: Text(
-          "Cheese Pizza",
+          "Cheese Pizzasss",
           style: TextStyle(
             color: Colors.black,
             fontSize: 25,
